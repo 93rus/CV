@@ -1,7 +1,9 @@
 body {
   font-family: Georgia;
   font-size: 16px;
-  color: white;
+  color: #009018;
+  background: url(wp3284833.gif) 100% 100% no-repeat;
+  background-size: cover;
   margin: 0 auto;   /* center content */
   max-width: 800px; /* limit width */
   line-height: 1.5;
