@@ -1,16 +1,17 @@
 body {
-  font-family: Georgia;
-  font-size: 16px;
-  color: #009018;
-  background: url(wp3284833.gif) 100% 100% no-repeat;
+  font-family: Courier New;
+  font-size: 18px;
+  background-image: repeating-linear-gradient(to bottom right,rgb(95, 146, 179) 0%,rgb(255, 255, 255) 21.4%,rgb(88, 135, 168) 49.7%,rgb(255, 255, 255) 79.6%,rgb(95, 146, 179) 100%);
+  
   background-size: cover;
   margin: 0 auto;   /* center content */
   max-width: 800px; /* limit width */
   line-height: 1.5;
   padding-top: 32px;
   padding-bottom: 32px;
-
 }
+
+
 
 p {
   margin-bottom: 0px;
@@ -46,6 +47,7 @@ h5 {
   margin-bottom: 32px;
   text-align: center;
 }
+
 
 #footer {
   margin-top: 64px;
